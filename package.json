@@ -1,0 +1,15 @@
+{
+  "name": "reactquiz",
+  "version": "1.0.0",
+  "description": "a Reactjs quiz application",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Daniel Cortes",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
